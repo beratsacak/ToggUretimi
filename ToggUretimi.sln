@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggUretimi", "ToggUretimi\ToggUretimi.csproj", "{B978BB1D-F2F7-4DD3-8AF3-BC0B5F4B1CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B978BB1D-F2F7-4DD3-8AF3-BC0B5F4B1CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B978BB1D-F2F7-4DD3-8AF3-BC0B5F4B1CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B978BB1D-F2F7-4DD3-8AF3-BC0B5F4B1CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B978BB1D-F2F7-4DD3-8AF3-BC0B5F4B1CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1A8BAE-EE65-46E2-A06A-7036F8E16D7A}
+	EndGlobalSection
+EndGlobal
